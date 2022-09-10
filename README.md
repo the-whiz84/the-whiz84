@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Python Projects](https://github.com/the-whiz84/Python_Projects)
 
-- 🌱 I’m currently learning **Python and Azure**
+- 🌱 I’m currently learning **Python and Puppet**
 
-- 📫 How to reach me **radu.chiriac@zero-dawn.eu**
+- 📫 How to reach me **thewhiz84@gmail.com**
 
 - 📄 Know about my experiences [https://zero-dawn.eu](https://zero-dawn.eu)
 

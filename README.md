@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/the_whiz84" target="blank"><img src="https://img.shields.io/twitter/follow/the_whiz84?logo=twitter&style=for-the-badge" alt="@the_whiz84" /></a> </p>
 
-- 🔭 I’m currently working on [Python Projects](https://github.com/the-whiz84/Python_Projects)
+- 🔭 I’m currently working on moving my website to a new domain.
 
 - 🌱 I’m currently learning **Python and Puppet**
 
-- 📫 How to reach me **radu.chiriac@zero-dawn.eu**
+- 📫 How to reach me **radu@zerodawn.tech**
 
-- 📄 Know about my experiences [https://zero-dawn.eu](https://zero-dawn.eu)
+- 📄 Know about my experiences [https://zerodawn.tech](https://zerodawn.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

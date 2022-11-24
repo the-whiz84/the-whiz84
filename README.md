@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/the_whiz84" target="blank"><img src="https://img.shields.io/twitter/follow/the_whiz84?logo=twitter&style=for-the-badge" alt="@the_whiz84" /></a> </p>
 
-- 🔭 I’m currently working on [moving my website to a new domain](https://github.com/the-whiz84/zero-dawn.tech).
+- 🔭 I’m currently working on [Ansible_Training](https://github.com/the-whiz84/Ansible_Training).
 
-- 🌱 I’m currently learning **Python and Puppet**
+- 🌱 I’m currently learning **Python and Ansible**
 
 - 📫 How to reach me **radu@zerodawn.tech**
 

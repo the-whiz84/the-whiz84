@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_whiz84" target="blank"><img src="https://img.shields.io/twitter/follow/the_whiz84?logo=twitter&style=for-the-badge" alt="@the_whiz84" /></a> </p>
 
-- 🔭 I’m currently working on [my website](https://github.com/the-whiz84/zerodawn.tech).
+- 🔭 I’m currently working on [Python Projects](https://github.com/the-whiz84/Python_Projects).
 
 - 🌱 I’m currently learning **Python and Ansible**
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Radu aka The-Whiz</h1>
-<h3 align="center">A tech enthusiast, Linux user and gamer</h3>
+<h3 align="center">A tech enthusiast, Linux and MacOS user and gamer</h3>
 
 <p align="left"> <a href="https://twitter.com/the_whiz84" target="blank"><img src="https://img.shields.io/twitter/follow/the_whiz84?logo=twitter&style=for-the-badge" alt="@the_whiz84" /></a> </p>
 
 - 🔭 I’m currently working on [Python Projects](https://github.com/the-whiz84/Python_Projects).
 
-- 🌱 I’m currently learning **Python and Ansible**
+- 🌱 I’m currently learning **Python and Web Development**
 
 - 📫 How to reach me **radu@zerodawn.tech**
 

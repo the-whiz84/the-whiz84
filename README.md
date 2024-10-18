@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/the_whiz84" target="blank"><img src="https://img.shields.io/twitter/follow/the_whiz84?logo=twitter&style=for-the-badge" alt="@the_whiz84" /></a> </p>
 
-- 🔭 I’m currently working on [Python Projects](https://github.com/the-whiz84/Python_Projects).
+- 🔭 I’m currently working on [My Website](https://github.com/the-whiz84/zerodawn.tech).
 
-- 🌱 I’m currently learning **Python and Web Development**
+- 🌱 I just finished **100 Days of Code: Python Bootcamp** and looking for the next challenge.
 
 - 📫 How to reach me **radu@zerodawn.tech**
 

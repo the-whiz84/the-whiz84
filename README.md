@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radu aka The-Whiz</h1>
-<h3 align="center">A tech enthusiast, Linux and MacOS user and gamer</h3>
+<h3 align="center">A tech enthusiast, Linux and MacOS user</h3>
 
 <p align="left"> <a href="https://twitter.com/the_whiz84" target="blank"><img src="https://img.shields.io/twitter/follow/the_whiz84?logo=twitter&style=for-the-badge" alt="@the_whiz84" /></a> </p>
 

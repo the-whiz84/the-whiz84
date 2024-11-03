@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **radu@zerodawn.tech**
 
-- 📄 Know about my experiences [https://zerodawn.tech](https://zerodawn.tech)
+- 📄 Know about my experiences [www.thewhiz.me](https://www.thewhiz.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

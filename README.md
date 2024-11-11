@@ -7,7 +7,7 @@
 
 - 🌱 I just finished **100 Days of Code: Python Bootcamp** and looking for the next challenge.
 
-- 📫 How to reach me **radu@zerodawn.tech**
+- 📫 How to reach me **radu@thewhiz.me**
 
 - 📄 Know about my experiences [www.thewhiz.me](https://www.thewhiz.me)
 

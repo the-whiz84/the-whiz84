@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **the-whiz84/the-whiz84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there <a href="https://www.the-whiz.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+I'm a guy passionate about videogames, tech and Linux. I dabble in Python, DevOps, AWS and AI.
+
+- 🔭 &nbsp;I’m currently working on getting AWS Sollution Architect Associate certification :wink:
+- 🌱 &nbsp;I’m currently learning AWS, DevOps
+- 👨‍💻 &nbsp;Read more about my projects at [the-whiz.dev](https://www.the-whiz.dev)
+- 
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)

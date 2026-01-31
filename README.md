@@ -19,7 +19,6 @@ I'm a guy passionate about videogames, tech and Linux. I dabble in Python, DevOp
 - 🔭 &nbsp;I’m currently working on getting AWS Sollution Architect Associate certification :wink:
 - 🌱 &nbsp;I’m currently learning AWS, DevOps
 - 👨‍💻 &nbsp;Read more about my projects at [the-whiz.dev](https://www.the-whiz.dev)
-- 
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)

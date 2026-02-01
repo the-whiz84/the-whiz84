@@ -36,7 +36,7 @@ jobs:
         with:
           card: pin
           options: username=readme-tools&repo=the-whiz.dev&theme=tokyonight
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          path: profile/pin-readme-tools-the-whiz.dev.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

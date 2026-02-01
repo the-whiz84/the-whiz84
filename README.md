@@ -22,4 +22,4 @@ I'm a guy passionate about videogames, tech and Linux. I dabble in Python, DevOp
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-the-whiz.dev.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)

@@ -180,7 +180,7 @@
           data-testid="lang-progress"
           x="249"
           y="0"
-          width="11.01"
+          width="11"
           height="8"
           fill="#3178c6"
         />
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 84.80%
+        Jupyter Notebook 84.81%
       </text>
     </g>
   </g><g transform="translate(0, 25)">

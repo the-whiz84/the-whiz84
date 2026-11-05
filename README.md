@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there <a href="https://www.the-whiz.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 I'm a guy passionate about videogames, tech and Linux. I dabble in Python, DevOps, AWS and AI.
 
-- 🔭 &nbsp;I just got my AWS Sollution Architect Associate certification :wink:
+- 🔭 &nbsp;I am working towards my AWS DevOps Professional certification :wink:
 - 🌱 &nbsp;I’m currently learning AWS, DevOps and AI coding
 - 👨‍💻 &nbsp;Read more about my projects at [the-whiz.dev](https://www.the-whiz.dev)
 
